@@ -1,0 +1,61 @@
+.slogan{
+    color:white;
+    
+}
+main{
+    height: 900px;
+}
+.container-header{
+    display:flex;
+    justify-content: space-between;
+}
+.your-information{
+    margin:10px 50px;
+}
+header{
+    background:#ccc;
+}
+footer{
+    background:#ccc;
+    position:fixed;
+    bottom:0;
+    width:100%;   
+}
+.icons{
+    margin-left: 30px;
+    font-size: 30px;
+}
+#showform{
+    max-width: 400px;
+    border:2px solid black; 
+    display:flex;
+    margin:0 auto;
+    display:none;
+    border-radius: 5px;
+}
+.space{
+    padding:60px;
+}
+.btn {
+    padding:5px 20px;
+    float: right;
+    margin-top: 5px;
+}
+.label-text{
+    min-width: 200px;
+
+}
+.text-box{
+    min-width:20px;
+}
+.text{
+    width:300px;
+    flex:1;
+}
+#icon,button{
+    font-size: 20px;
+  
+    border: none;
+    float: right;
+ 
+}
